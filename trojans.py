@@ -34,7 +34,7 @@ def menu():
        print    "\033[97m[*] youtube : nggak ada ngab:v"
        print    "\033[97m[*] facebook : nggak aja juga njir:v"
        print    "\033[97m[*] WhatsApp : +62 8214-6685-361"
-       print    "\033[97m[*] github : https://github.com/MR-galang95"
+       print    "\033[97m[*] github : https://github.com/MR-galang97"
        print "\033[96m[+]===========================================[+]"
 
        print
